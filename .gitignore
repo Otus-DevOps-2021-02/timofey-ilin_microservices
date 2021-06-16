@@ -16,3 +16,10 @@ vault.key
 .molecule
 .cache
 .pytest_cache
+docker-compose.yml
+build_info.txt
+prometheus/
+.idea
+
+## python specific
+*.pyc
