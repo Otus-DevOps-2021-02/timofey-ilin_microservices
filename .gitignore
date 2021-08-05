@@ -17,7 +17,7 @@ vault.key
 .cache
 .pytest_cache
 build_info.txt
-prometheus/
+
 .idea
 
 ## python specific
