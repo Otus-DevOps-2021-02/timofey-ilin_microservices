@@ -15,3 +15,12 @@ timofey-ilin microservices repository
 # Установили docker-compose на локальную машину
 # Собрали образы приложения reddit с помощью docker-compose
 # Запустили приложение reddit с помощью dockercompose
+
+
+# Prometheus: запуск, конфигурация, знакомство с Web UI
+# Мониторинг состояния микросервисов
+# Сбор метрик хоста с использованием экспортера
+# https://hub.docker.com/repository/docker/999123456789/ui
+# https://hub.docker.com/repository/docker/999123456789/post
+# https://hub.docker.com/repository/docker/999123456789/comment
+# https://hub.docker.com/repository/docker/999123456789/prometheus
