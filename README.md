@@ -16,7 +16,6 @@ timofey-ilin microservices repository
 # Собрали образы приложения reddit с помощью docker-compose
 # Запустили приложение reddit с помощью dockercompose
 
-
 # Prometheus: запуск, конфигурация, знакомство с Web UI
 # Мониторинг состояния микросервисов
 # Сбор метрик хоста с использованием экспортера
@@ -24,3 +23,9 @@ timofey-ilin microservices repository
 # https://hub.docker.com/repository/docker/999123456789/post
 # https://hub.docker.com/repository/docker/999123456789/comment
 # https://hub.docker.com/repository/docker/999123456789/prometheus
+
+#Подготовили инсталляцию Gitlab CI
+#Подготовили репозиторий с кодом приложения
+#Описали для приложения этапы пайплайна
+#Определили окружения
+
